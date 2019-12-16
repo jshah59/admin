@@ -32,14 +32,15 @@ More to be added, and additional details are provided below.
 
 #### Frontend
 
-The frontend team will be responsible for everything that relates to the GUI for the website. A significant amount of collaboration will be done with the backend and mobile teams.
+The frontend team will be responsible for everything that relates to the GUI for the website. This will involve a significant amount of collaboration with backend and mobile teams.
 
 - Outline of pages in the web interface:
   1. Login page
     * Let users create accounts and fill out their profile with a form
   2. Chat interface
     * Chat using APIs such as ChatKit for professors and students to communicate with each other
-  3. Website settings (?)
+  3. Website settings
+    * Home page interface, user preferences
   4. Search + recommendations (*Home*)
     * Search bar shows results in two tabs: users and postings (for research positions)
     * Recommendations are displayed on the same page as the search bar, before any searching
@@ -90,7 +91,7 @@ The backend team will be responsible for implementing any functionality (API, Da
 
 #### Mobile
 
-The mobile team will be responsible for implementing the mobile app version of Research Bay. As a result, this will involve both frontend and backend work, and a significant amount of collaboration will be done with the frontend and backend teams to make sure that the teams' goals and work will be aligned with each other's.
+The mobile team will be responsible for implementing the mobile app version of Research Bay. As a result, this will involve both frontend and backend work, and a significant amount of collaboration with the frontend and backend teams to make sure that each teams' goals and work will be aligned with one another.
 
 - Much of the required work and functionality of the mobile app mirrors a subset of the details already covered in the frontend and backend sections, so please refer to those for now. We will adjust and refine requirements as development starts and the team learns Flutter.
 
@@ -105,7 +106,7 @@ The mobile team will be responsible for implementing the mobile app version of R
 
 #### Data/ML
 
-The data/ml team will be responsible for implementing the recommendation system that will suggest matches to professors and students. It will also help the backend team with Research Bay's searching algorithms/functionality as needed. As a result, there will be a lot of collaboration with the backend team.
+The Data/ML team will be responsible for implementing the recommendation system that will suggest matches to professors and students. It will also help the backend team with Research Bay's searching algorithms/functionality as needed. As a result, there will be a lot of collaboration with the backend team.
 
 - Outline for search + recommendation system
   1. Recommendations
@@ -131,7 +132,7 @@ The data/ml team will be responsible for implementing the recommendation system 
 
 ### Deadlines
 
-**We are requiring each project developer to complete the learning exercises for his/her team that are linked above during this winter break. We also expect each team to start communicating within itself (via Slack) to start the design/brainstorming process for the items described in the team's outline and TODOs.** Mentors will be checking in sometime during break to make sure all of the required tasks are being met on time, so feel free to reach out to them for help.
+**We are requiring each project developer to complete the learning exercises for his/her team that are linked above during this winter break. We also expect each team to start communicating within itself (via Slack) to start the design/brainstorming process for the items described in the team's outline and TODOs.** Mentors will be checking in sometime during break to make sure all of the required tasks are being met on time, so feel free to reach out to them for help. We understand that not everyone will have experience with these platforms right off the bat, so we are happy to be resources for you as everyone tries to get up to speed.
 
 For example, we expect the frontend developers to start collaborating on their mockups/wireframes of the various pages and the mobile developers to put together a sample Flutter app to familiarize themselves. Data/ML should compile a set of features/attributes/tags for users, profiles, and postings that will be required for the recommendations and searches. The backend team should draw a mockup/diagram that details a high-level overview of all of the backend components of the application, including cloud.
 
