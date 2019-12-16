@@ -134,3 +134,8 @@ The data/ml team will be responsible for implementing the recommendation system 
 **We are requiring each project developer to complete the learning exercises for his/her team that are linked above during this winter break. We also expect each team to start communicating within itself (via Slack) to start the design/brainstorming process for the items described in the team's outline and TODOs.** Mentors will be checking in sometime during break to make sure all of the required tasks are being met on time, so feel free to reach out to them for help.
 
 For example, we expect the frontend developers to start collaborating on their mockups/wireframes of the various pages and the mobile developers to put together a sample Flutter app to familiarize themselves. Data/ML should compile a set of features/attributes/tags for users, profiles, and postings that will be required for the recommendations and searches. The backend team should draw a mockup/diagram that details a high-level overview of all of the backend components of the application, including cloud.
+
+
+### Development Practices/Guidelines
+
+Specific guidelines and instructions on working with Git, setting up your dev environment, etc will be sent out in the future as teams get closer to actual project development.
